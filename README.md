@@ -1,5 +1,8 @@
 # RBF
 
+## Environment
+keras 2.4.3
+tensorflow-gpu 2.1.0
 ## Data
 Excel文件为A,B,C三相电流特征集与对应标签，需要修改下数据加载路径
 
